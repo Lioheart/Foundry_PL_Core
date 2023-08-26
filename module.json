@@ -1,0 +1,26 @@
+{
+  "id": "lang-pl",
+  "title": "Polski [Core]",
+  "description": "Polska wersja językowa aplikacji Foundry VTTT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Lioheart"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "pl.json"
+    }
+  ],
+  "coreTranslation": true,
+  "url": "https://github.com/Lioheart/Foundry_PL_Core",
+  "manifest": "https://github.com/Lioheart/Foundry_PL_Core/-/raw/master/module.json",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
+  }
+}
