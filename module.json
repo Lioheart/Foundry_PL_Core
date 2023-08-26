@@ -11,13 +11,14 @@
   "languages": [
     {
       "lang": "pl",
-      "name": "Polski",
+      "name": "Polski - Polish",
       "path": "pl.json"
     }
   ],
   "coreTranslation": true,
   "url": "https://github.com/Lioheart/Foundry_PL_Core",
   "manifest": "https://github.com/Lioheart/Foundry_PL_Core/-/raw/master/module.json",
+  "download": "https://github.com/Lioheart/Foundry_PL_Core/archive/refs/tags/v1.0.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11",
