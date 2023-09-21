@@ -18,7 +18,7 @@
   "coreTranslation": true,
   "url": "https://github.com/Lioheart/Foundry_PL_Core",
   "manifest": "https://raw.githubusercontent.com/Lioheart/Foundry_PL_Core/main/module.json",
-  "download": "https://github.com/Lioheart/Foundry_PL_Core/archive/refs/tags/v0.0.1.zip",
+  "download": "https://github.com/Lioheart/Foundry_PL_Core/releases/latest/download/Foundry_PL_Core.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11.309",
