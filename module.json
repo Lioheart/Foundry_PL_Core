@@ -1,8 +1,8 @@
 {
   "id": "lang-pl",
-  "title": "Polski V11 [Core]",
+  "title": "Polski BETA [Core]",
   "description": "Polska wersja językowa aplikacji Foundry VTT",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "authors": [
     {
       "name": "Lioheart"
@@ -21,7 +21,7 @@
   "download": "https://github.com/Lioheart/Foundry_PL_Core/releases/latest/download/Foundry_PL_Core.zip",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.314",
-    "maximum": "11"
+    "verified": "12.324",
+    "maximum": "12"
   }
 }
